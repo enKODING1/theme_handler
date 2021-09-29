@@ -64,7 +64,7 @@ handler.autoDetect(); //실시간 테마변경 감지
 | `autoDetect` | 실시간으로 테마변경 감지 |  
 | `currentMode` | 현재 테마상태를 반환 |  
 | `changeTheme` | 전달인자 light / night |  
-<<<<<<< HEAD
+
 
 
 ```javascript
