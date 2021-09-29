@@ -18,7 +18,6 @@ export class ThemeHandler {
         this.mode_white = "light"
         this.theme_mode = this.mode_white;
         this.detectTheme();
-
     }
 
     //백그라운드 컬러 변경
