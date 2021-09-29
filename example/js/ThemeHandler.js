@@ -85,7 +85,7 @@ export class ThemeHandler {
 
     currentMode = () => {
 
-        if (this.theme_mode == this.mode_white) {
+        if (this.theme_mode === this.mode_white) {
             return this.mode_dark;
         } else {
             return this.mode_white;
